@@ -1,7 +1,7 @@
-![logo](https://github.com/EdinamUkpabio/EdinamUkpabio/blob/main/GithubBanner.png)
 
-<h1 align="center">Hi 👋, I'm Edinam Ukpabio</h1>
-<h3 align="center">I am Software Developer from Nigeria</h3>
+
+<h1 align="center">Hi 👋, I'm Syed Usman Zafar</h1>
+<h3 align="center">I am Software Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edinamukpabio&label=Profile%20views&color=0e75b6&style=flat" alt="edinamukpabio" /> </p>
 
@@ -22,7 +22,7 @@
 - **Problem Solving:** Whether it's troubleshooting code issues or finding elegant solutions to complex problems, I'm up for a discussion.
 - Feel free to strike up a conversation on any of these topics or anything else you'd like to know. I'm always open to sharing knowledge and engaging in meaningful discussions with fellow developers and enthusiasts. Let's learn from each other! 🤓🚀
 
-- 📫 How to reach me **edinamukpabio@gmail.com**
+- 📫 How to reach me **syedusmanzafar263@gmail.com**
 
 - ⚡ Fun fact   **Did you know that I once coded an entire project in a coffee shop during a power outage, fueled by caffeine and the light of my laptop screen? ☕💻 It turned out to be one of my most productive coding sessions ever! Sometimes, creativity thrives in unexpected situations. 😄🚀 Feel free to use this or come up with your own fun fact that showcases your personality or unique experiences. It's a great way to break the ice and make your GitHub profile more memorable.**
 
